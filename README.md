@@ -6,6 +6,8 @@ This project leverages transformer-based deep learning models to generate human-
 
 ## Video Walkthrough
 
+[Link to the video](https://www.youtube.com/watch?v=TRrfl2bLbKY)
+
 [![Chess Commentator Transformer Demo](https://img.youtube.com/vi/TRrfl2bLbKY/0.jpg)](https://www.youtube.com/watch?v=TRrfl2bLbKY)
 
 ## Project Structure
